@@ -1,0 +1,37 @@
+.circular-button {
+  width: 50px; /* Set the desired width and height for your circular button */
+  height: 50px;
+  border-radius: 50%; /* Makes the button circular by setting border-radius to 50% */
+  background-color: #007bff; /* Button background color */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  z-index: 9999 !important;
+}
+
+.chatbot-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.chatbot-header h2 {
+  color: #fff;
+  margin: 0;
+}
+
+.chatbot-content {
+  padding: 20px;
+}
+
+.chat-box {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}

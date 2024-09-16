@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Financial Planning Webinar",
+    "mode": "online",
+    "code": "ABC123",
+    "description": "Join our online financial planning webinar and learn how to manage your finances effectively. Our expert speakers will provide valuable insights into budgeting, investing, and achieving financial goals.",
+    "image": "/test1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Investment Seminar",
+    "mode": "offline",
+    "place": "City Conference Center",
+    "time": "2023-10-15 14:00:00",
+    "description": "Don't miss our in-person investment seminar at the City Conference Center. Discover investment strategies, meet industry experts, and network with fellow attendees. Limited seats available!",
+    "image": "/test1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Financial Independence Workshop",
+    "mode": "online",
+    "code": "XYZ789",
+    "description": "Join our online workshop on achieving financial independence. We'll cover topics like early retirement, frugal living, and building passive income streams. Register now and gain financial freedom!",
+    "image": "/test2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Budgeting Bootcamp",
+    "mode": "offline",
+    "place": "Community Center",
+    "time": "2023-11-05 10:00:00",
+    "description": "Get hands-on budgeting experience at our Budgeting Bootcamp held at the Community Center. Learn practical budgeting skills and take control of your financial future.",
+    "image": "/test4.jpg"
+  },
+   {
+    "id": 5,
+    "title": "Real Estate Investment Seminar",
+    "mode": "offline",
+    "place": "Grand Hotel Ballroom",
+    "time": "2023-11-20 15:30:00",
+    "description": "Join our offline seminar on real estate investment at the Grand Hotel Ballroom. Learn about property investment strategies, market trends, and wealth building through real estate.",
+    "image": "/test4.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Stock Market Masterclass",
+    "mode": "online",
+    "code": "STOCKS456",
+    "description": "Enroll in our online Stock Market Masterclass and gain insights into stock trading, portfolio management, and risk mitigation. Use code STOCKS456 to access the class.",
+    "image": "/test5.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Retirement Planning Workshop",
+    "mode": "offline",
+    "place": "Community Center",
+    "time": "2023-12-10 09:30:00",
+    "description": "Prepare for a secure retirement! Attend our workshop at the Community Center to learn about retirement savings, investment strategies, and financial planning for your golden years.",
+    "image": "/test6.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cryptocurrency Webinar",
+    "mode": "online",
+    "code": "CRYPTO123",
+    "description": "Join our online webinar to explore the world of cryptocurrencies. Understand blockchain technology, cryptocurrency investments, and the future of digital finance. Use code CRYPTO123 to register.",
+    "image": "/test7.jpg"
+  }
+]
